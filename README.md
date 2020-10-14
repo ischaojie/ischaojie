@@ -4,6 +4,8 @@
 
 Hi, I'm [shiniao](https://shiniao.fun), a 🌐 developer.
 
+Now, focus on distributed database.
+
 💬 Ask me about anything [here](https://github.com/shiniao/shiniao/issues).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shiniao.shiniao)
