@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-Hi, I'm [shiniao](https://shiniao.fun), a 🌐 developer.
+Hi, I'm [shiniao(鸟石)](https://shiniao.fun/), a 🌐 developer.
 
 Now, focus on distributed database.
 
