@@ -2,9 +2,9 @@
 
 ### Hello World! 👋
 
-Hi, I'm [shiniao(鸟石)](https://shiniao.fun/), a 🌐 developer.
+Hi, I'm [chaojie(潮戒)](http://blog.chaojie.me/), a 🌐 developer.
 
-Now, focus on distributed database.
+Now, focus on open source.
 
 💬 Ask me about anything [here](https://github.com/shiniao/shiniao/issues).
 
