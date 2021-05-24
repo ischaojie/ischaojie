@@ -2,21 +2,21 @@
 
 ### Hello World! 👋
 
-Hi, I'm [chaojie(潮戒)](http://blog.chaojie.me/), a 🌐 developer.
+Hi, I'm [chaojie(潮戒)](http://blog.chaojie.fun/), a 🌐 developer.
 
 Now, focus on open source.
 
-💬 Ask me about anything [here](https://github.com/shiniao/shiniao/issues).
+💬 Ask me about anything [here](https://github.com/ischaojie/ischaojie/issues).
 
-![](https://visitor-badge.laobi.icu/badge?page_id=shiniao.shiniao)
+![](https://visitor-badge.laobi.icu/badge?page_id=ischaojie.ischaojie)
 
 
 
 <!--
 
-[![stat](https://github-readme-stats.vercel.app/api?username=shiniao&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/shiniao)
+[![stat](https://github-readme-stats.vercel.app/api?username=ischaojie&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/ischaojie)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiniao&layout=compact)](https://github.com/shiniao)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ischaojie&layout=compact)](https://github.com/ischaojie)
 
 <details>
 <summary>CLICK ME</summary>
