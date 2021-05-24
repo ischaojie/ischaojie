@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-Hi, I'm [chaojie(潮戒)](http://blog.chaojie.fun/), a 🌐 developer.
+Hi, I'm [chaojie(潮戒)](https://blog.chaojie.fun/), a 🌐 developer.
 
 Now, focus on open source.
 
