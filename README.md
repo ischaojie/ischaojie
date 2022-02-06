@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-Hi, I'm [chaojie(潮戒)](https://blog.chaojie.fun/), a 🌐 developer, work in [@douban](https://github.com/douban) now.
+Hi, I'm [chaojie(潮戒)](https://blog.chaojie.fun/), a 🌐 developer, work in [@douban](https://en.wikipedia.org/wiki/Douban) now.
 
 Now, focus on open source.
 
