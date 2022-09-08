@@ -14,9 +14,7 @@ Now, focus on open source.
 
 <!--
 
-[![stat](https://github-readme-stats.vercel.app/api?username=ischaojie&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/ischaojie)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ischaojie&layout=compact)](https://github.com/ischaojie)
+<img src="https://github-readme-stats.vercel.app/api?username=ischaojie&show_icons=true&theme=buefy&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
 
 <details>
 <summary>CLICK ME</summary>
