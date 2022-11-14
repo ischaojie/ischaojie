@@ -1,4 +1,4 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=ischaojie&show_icons=true&theme=buefy&hide=stars&card_width=400' /> 
+<img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ischaojie&theme=github' /> 
 
 ### Hello World! 👋
 
