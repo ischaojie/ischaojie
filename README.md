@@ -1,7 +1,7 @@
 <div align='center'>
 <h3>Hello World! 👋</h3>
 
-Hi, I'm [chaojie(潮戒)](https://chaojie.fun/), work in [@douban](https://en.wikipedia.org/wiki/Douban) now.
+Hi, I'm [chaojie(潮戒)](https://chaojie.fun/), a python developer at [@douban](https://en.wikipedia.org/wiki/Douban).
 
 Now, focus on open source.
 
