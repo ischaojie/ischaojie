@@ -5,11 +5,11 @@ Hi, I'm [chaojie(潮戒)](https://chaojie.fun/), a Python developer at [@douban]
 
 Now, focus on open source.
 
-💬 Ask me about anything [here](https://github.com/ischaojie/ischaojie/issues).
+💬 Ask me about anything [here](https://github.com/ischaojie/ischaojie/discussions).
 
-  ![](https://visitor-badge.laobi.icu/badge?page_id=ischaojie.ischaojie) 
+  ![](https://visitor-badge.laobi.icu/badge?page_id=ischaojie.ischaojie)
 
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ischaojie&theme=github' /> 
-  
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ischaojie&theme=github' />
+
 </div>
 

@@ -16,6 +16,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          debug_print: yes
+          
+          # --- plugin --- #
           # issue 和 pr 状态
           plugin_followup: yes
           plugin_followup_sections: user
