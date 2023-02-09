@@ -9,7 +9,7 @@ Now, focus on open source.
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=ischaojie.ischaojie)
 
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ischaojie&theme=github' />
+  <img src='/github-metrics.svg' />
 
 </div>
 

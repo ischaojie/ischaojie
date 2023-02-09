@@ -17,10 +17,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           debug_print: yes
-          
+
           # --- plugin --- #
+          # repo 和 org 贡献
+          plugin_notable: yes
           # issue 和 pr 状态
           plugin_followup: yes
           plugin_followup_sections: user
-          # repo 和 org 贡献
-          plugin_notable: yes
