@@ -21,6 +21,12 @@ jobs:
           # --- plugin --- #
           # repo 和 org 贡献
           plugin_notable: yes
+          plugin_notable_from: all
           # issue 和 pr 状态
           plugin_followup: yes
           plugin_followup_sections: user
+          # 使用的语言
+          plugin_languages: yes
+          
+          config_order: base.header, notable, followup, languages
+
