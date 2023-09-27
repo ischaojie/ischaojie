@@ -1,9 +1,9 @@
 <div align='center'>
 <h3>Hello World 👋 </h3>
 
-Hi, I'm [chaojie(潮戒)](https://chaojie.fun/), a Python developer at [@douban](https://www.douban.com).
+Hi, I'm [chaojie(潮戒)](https://chaojie.fun/), I am currently a university teacher and used to work at [@douban](https://www.douban.com).
 
-Now, focus on open source.
+I'm interested in Python and Rust. Now, focus on open source.
 
 If you like what I do, welcome [buy me a coffee](https://bmc.link/chaojie).
 
