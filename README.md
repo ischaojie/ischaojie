@@ -7,7 +7,7 @@ I'm interested in Python and Rust. Now, focus on open source.
 
 I can't use GitHub sponsor in my country, so if you like what I do, you can **sponsor me** by: 
 
-USDT (ERC20): **0x5b3db8c8a2ef076f1644668782458653d4027238**
+USDT (ERC20/BEP20): **0x5b3db8c8a2ef076f1644668782458653d4027238**
 
 or
 
