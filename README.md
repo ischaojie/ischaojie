@@ -5,7 +5,7 @@ Hi, I'm [chaojie(潮戒)](https://chaojie.fun/), I am currently a university lec
 
 I'm interested in Python 🐍 and Rust 銹, focus on open source now 🎯. 
 
-(I'm looking for a remote part-time job 🧑🏻‍🚀, feel free to [contact me](mailto:hi@chaojie.fun) 📬.)
+(I'm looking for a remote part-time job 🧑🏻‍🚀, feel free to [contact me](mailto:hi@chaojie.me) 📬.)
 
 I can't use GitHub sponsor in my country, so if you like what I do, you can **sponsor me** by👇: 
 
